@@ -56,5 +56,7 @@ Note: The dataset is not included due to licensing.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Noor235/YOUR_REPO_NAME.git
+git clone https://github.com/Noor235/cardio-danet-reproduction.git
+cd cardio-danet-reproduction 
 cd YOUR_REPO_NAME
+
